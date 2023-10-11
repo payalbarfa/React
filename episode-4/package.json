@@ -1,0 +1,24 @@
+{
+  "name": "episode-4",
+  "version": "1.0.0",
+  "description": "Nameste react epsiode 4",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Nameste_React"
+  },
+  "author": "payal",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  }
+}
