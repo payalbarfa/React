@@ -1,0 +1,77 @@
+/* .header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+.logo_img{
+    width: 200px;
+}
+.nav-items{
+    padding: 0 20px;
+}
+.nav-items>ul{
+    display: flex;
+    font-size: 24px;
+    list-style-type: none;
+}
+.nav-items>ul>li{
+    padding: 10px;
+    margin: 10px;
+}
+.restro-card{
+    width:200px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.restro-card:hover{
+    cursor: pointer;
+    border: 1px solid black;
+
+}
+.restro-logo{
+    width:100%
+}
+.restro-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.restro-api{
+    width:300px;
+}
+.search{
+    padding: 5px;
+} */
+
+#container {
+    background-color: yellow;
+.header {
+    display: flex;
+    justify-content: space-between ;
+    margin: 10px;
+    border: 1px solid black;
+}
+}
+.nav-items > ul{
+    list-style-type: none;
+    display: flex
+}
+.nav-items > ul > li {
+    padding: 10px;
+}
+.logo {
+    width: 100px;
+}
+.card{
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+.card > img {
+    width: 100%;
+}
+.restaurant-list {
+    display: flex;
+    flex-wrap: wrap;
+}
